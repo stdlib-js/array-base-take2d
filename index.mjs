@@ -1,4 +1,0 @@
-// Copyright (c) 2023 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
-/// <reference types="./index.d.ts" />
-import e from"https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-normalize-index@v0.1.0-esm/index.mjs";import{factory as r}from"https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ind@v0.1.1-esm/index.mjs";import n from"https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-fmtprodmsg@v0.1.1-esm/index.mjs";function s(s,t,d,i){var o,m,h,l,a,f,g,u,p;if(-1===(h=e(d,1)))throw new RangeError(n("invalid argument. Third argument exceeds the number of dimensions. Number of dimensions: %d. Value: `%d`.",2,d));if(l=r(i),m=[],0===h){for(o=s.length-1,g=0;g<t.length;g++)a=l(t[g],o),m.push(s[a]);return m}for(g=0;g<s.length;g++){for(p=[],o=(u=s[g]).length-1,f=0;f<t.length;f++)a=l(t[f],o),p.push(u[a]);m.push(p)}return m}export{s as default};
-//# sourceMappingURL=index.mjs.map
