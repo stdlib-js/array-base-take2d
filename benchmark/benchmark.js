@@ -20,7 +20,7 @@
 
 // MODULES //
 
-var bench = require( '@stdlib/bench' );
+var bench = require( '@stdlib/bench-harness' );
 var floor = require( '@stdlib/math-base-special-floor' );
 var pow = require( '@stdlib/math-base-special-pow' );
 var filled2dBy = require( '@stdlib/array-base-filled2d-by' );
