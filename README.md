@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import take2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-take2d@esm/index.mjs';
+import take2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-take2d@v0.2.1-esm/index.mjs';
 ```
 
 #### take2d( x, indices, dimension, mode )
@@ -105,7 +105,7 @@ var z = take2d( x, [], 0, 'throw' );
 import filled2dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled2d-by@esm/index.mjs';
 import filledBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled-by@esm/index.mjs';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
-import take2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-take2d@esm/index.mjs';
+import take2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-take2d@v0.2.1-esm/index.mjs';
 
 // Generate a random array:
 var shape = [ 5, 5 ];
