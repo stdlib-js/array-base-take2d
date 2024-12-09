@@ -2,40 +2,6 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
-
-## Unreleased (2024-08-01)
-
-<section class="commits">
-
-### Commits
-
-<details>
-
--   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
-
-</details>
-
-</section>
-
-<!-- /.commits -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Athan Reines
-
-</section>
-
-<!-- /.contributors -->
-
-</section>
-
-<!-- /.release -->
-
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-29)
@@ -70,7 +36,44 @@ No changes reported for this release.
 
 ## 0.1.0 (2023-12-20)
 
-No changes reported for this release.
+<section class="features">
+
+### Features
+
+-   [`dddf7e7`](https://github.com/stdlib-js/stdlib/commit/dddf7e7c4b62fdfa2bdb2c963410fa3cafcf5849) - add `array/base/take2d`
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`0ab6e4c`](https://github.com/stdlib-js/stdlib/commit/0ab6e4c2135a8926f53c8d128564a50dd5333142) - **test:** remove failing test case _(by Athan Reines)_
+-   [`be6afc2`](https://github.com/stdlib-js/stdlib/commit/be6afc2a3a22438c4f06b743d3f0e6c6d4367e56) - **docs:** update Markdown stdlib package URLs [(#1144)](https://github.com/stdlib-js/stdlib/pull/1144) _(by stdlib-bot)_
+-   [`8324ff0`](https://github.com/stdlib-js/stdlib/commit/8324ff0bc25248a747760819eafee335b738dc0c) - **docs:** fix example _(by Athan Reines)_
+-   [`dddf7e7`](https://github.com/stdlib-js/stdlib/commit/dddf7e7c4b62fdfa2bdb2c963410fa3cafcf5849) - **feat:** add `array/base/take2d` _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
